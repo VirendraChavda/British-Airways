@@ -1,7 +1,9 @@
 # British Airways Sentiment Analysis and Prediction
 ### Author: Virendrasinh Chavda
 
+<p align="justify">
 This repository contains the analysis and predictive modeling for British Airways' customer reviews and booking data. The project leverages machine learning and natural language processing (NLP) to analyze customer sentiment and predict customer behavior. It aims to uncover insights into customer satisfaction and booking patterns, which can help improve services and enhance customer experience.
+</p>
 
 ---
 
@@ -38,19 +40,10 @@ To set up and use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/british-airways-analysis.git
+   git clone https://github.com/VirendraChavda/British-Airways.git
    cd british-airways-analysis
    ```
-2. Create a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebooks for analysis:
+2. Open the Jupyter Notebooks for analysis:
    ```bash
    jupyter notebook
    ```
